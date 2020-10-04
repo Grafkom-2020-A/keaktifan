@@ -1,5 +1,5 @@
 # keaktifan
-Catatan keaktifan berupa tanya jawab dan komentar selama sesi sinkronus di perkuliahan Grafika Komputer (A). Silakan memperbarui catatan keaktifan dengan mengedit README secara langsung, lalu men-commit-nya.
+Catatan keaktifan berupa tanya jawab dan komentar selama sesi sinkronus di perkuliahan Grafika Komputer (A). Silakan memperbarui catatan keaktifan dengan mengedit README secara langsung, lalu men-commit-nya (dan pull request).
 
 | NRP            | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 |----------------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|
